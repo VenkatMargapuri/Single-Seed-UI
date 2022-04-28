@@ -1,0 +1,16 @@
+#Run the whole programm using the command
+#python demo_carving.py
+#
+# Python version used: 2.7, x86
+# Libraries used (preinstalled Anaconda 2 recommended):
+matplotlib==1.5.1
+mayavi==4.4.0
+numpy==1.10.0
+scipy==0.16.0
+# Those may depend on other libraries, installing those using pip or conda
+# should download all sub-libraries needed, some need to be installed manually.
+# Follow the instructions python is showing.
+#
+# Manual installation needed for those libraries:
+# sudo apt-get install python-imaging
+# OpenCV 2.7 cv2.pyd (x86)
